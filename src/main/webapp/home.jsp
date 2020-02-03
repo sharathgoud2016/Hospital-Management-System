@@ -10,7 +10,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Welcome Sharath <%=emp.getFirstName()%></title>
+<title>Welcome Sharath Goud <%=emp.getFirstName()%></title>
 
 <!-- Bootstrap core CSS     -->
 <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
